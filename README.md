@@ -1,5 +1,6 @@
 ## Hi, I'm Ikamullah Nizamani👋
-- 🔭 I’m currently working on learning nextJS
+- 🔭 I’m currently working as a Front-End Developer Inter at Greenie Web
+- 🌱 I’m currently learning nextJS
 <!--
 **Ikram001/Ikram001** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
