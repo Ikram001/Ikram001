@@ -9,9 +9,9 @@
 <h3>Other Languages:</h3> Python, PHP, Java
  
 ### 📫 Connect with Me  
-- **GitHub:** [https://github.com/Ikram001]  
-- **LinkedIn:** [https://www.linkedin.com/in/ikramullah-nizamani]  
-- **Email:** [Ikramnixamani@gmail.com]
+- **GitHub:** https://github.com/Ikram001  
+- **LinkedIn:** https://www.linkedin.com/in/ikramullah-nizamani
+- **Email:** Ikramnixamani@gmail.com
 
 <br>
 <h3>EDUCATION:</h3>
