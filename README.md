@@ -15,7 +15,7 @@
 
 <br>
 <h3>EDUCATION:</h3>
-Bachelor's Degree
-Bachelors in Computer Science
-University of Sindh, Jamshoro
-March 2022 - February 2026
+<br>Bachelor's Degree
+<br>Bachelors in Computer Science
+<br>University of Sindh, Jamshoro
+<br>March 2022 - February 2026
