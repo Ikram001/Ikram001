@@ -3,6 +3,13 @@
 
 <p><strong>Hi there! <span style="margin:0 10px;">👋</span></strong></p>
     
-<p>I'm <strong>Ikramullah Nizamani</strong>, a Software Engineer and I'm currently living in <strong>Pakistan</strong>.</p>
-<p>I’m currently pursuing a Computer Science degree while interning as a Frontend Developer at Greenie Web. With a specialization in the MERN stack.</p>
-
+<p>I'm <strong>Ikramullah Nizamani</strong>, a **university student** passionate about **web development** and looking for **internship opportunities** to gain real-world experience. I specialize in:  .</p>
+- **Frontend:** HTML, CSS, JavaScript, React  
+- **Backend:** Node.js, Express, MongoDB  
+- **Other Languages:** Python, MySQL, PostgreSQL, PHP, Java
+ 
+<br><h2>EDUCATION:</h2>
+<br> Bachelor's Degree
+<br>- Bachelors in Computer Science
+<br>- University of Sindh, Jamshoro
+<br>- March 2022 - February 2026
