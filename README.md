@@ -4,9 +4,9 @@
 <p><strong>Hi there! <span style="margin:0 10px;">👋</span></strong></p>
     
 <p>I'm <strong>Ikramullah Nizamani</strong>, a **university student** passionate about **web development** and looking for **internship opportunities** to gain real-world experience. I specialize in:  .</p>
-- **Frontend:** HTML, CSS, JavaScript, React  
-- **Backend:** Node.js, Express, MongoDB  
-- **Other Languages:** Python, MySQL, PostgreSQL, PHP, Java
+<h3>Frontend:</h3> HTML, CSS, JavaScript, React  
+<h3>Backend:</h3> Node.js, Express, MongoDB  
+<h3>Other Languages:</h3> Python, MySQL, PostgreSQL, PHP, Java
  
 <br><h2>EDUCATION:</h2>
 <br> Bachelor's Degree
