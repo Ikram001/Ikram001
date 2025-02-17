@@ -3,11 +3,4 @@
 
 <p><strong>Hi there! <span style="margin:0 10px;">👋</span></strong></p>
     
-<p>I'm <strong>Ikramullah Nizamani</strong>, a university student passionate about web development and I'm currently looking for internship opportunities to gain real-world experience. I specialize in:</p>
-<h3>Frontend:</h3> HTML, CSS, JavaScript, React  
-<h3>Backend:</h3> Node.js, Express, MongoDB, MySQL, PostgreSQL
-<h3>Other Languages:</h3> Python, PHP, Java
- 
-### 📫 Connect with Me  
-- **LinkedIn:** https://www.linkedin.com/in/ikramullah-nizamani
-- **Email:** Ikramnixamani@gmail.com
+<p>I'm <strong>Ikramullah Nizamani</strong>, a university student passionate about web development and I'm currently looking for internship opportunities to gain real-world experience.</p>
