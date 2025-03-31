@@ -1,5 +1,3 @@
- <h1 align="center">Ikramullah Nizamani</h1>
-<h2 align="center"><strong>🚨 Software Engineer 🚨</strong></h2>
 
 <p><strong>Hi there! <span style="margin:0 10px;">👋</span></strong></p>
     
