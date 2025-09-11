@@ -1,6 +1,6 @@
 # ikramullah Nizamani
-- curently intern @ [Verior](https://verior.co/)
-- prev @ [Greenie Web](https://www.greenieweb.co/)
+- curently exploring Backend development
+- prev intern @ [Verior](https://verior.co/)
 - cs @ [UOS](https://www.usindh.edu.pk/)
 
 currently exploring web frameworks, mobile apps, and shipping things
