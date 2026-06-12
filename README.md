@@ -20,6 +20,7 @@ Experienced in architecting systems from scratch, designing resilient database l
 
 </div>
 
+## Focus
 ```txt
 Backend Engineering
 Systems Architecture
