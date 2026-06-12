@@ -2,8 +2,6 @@
 
 # Ikram Nizamani
 
-<br />
-
 ---
 
 ## About
