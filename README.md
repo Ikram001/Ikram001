@@ -26,3 +26,4 @@ Type Safety
 Database Design
 Performance
 ```
+</div>
