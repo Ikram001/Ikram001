@@ -1,6 +1,8 @@
 <div align="center">
 
-# Ikram Nizamani
+# Ikram
+
+<br />
 
 ---
 
@@ -12,10 +14,11 @@ I care about security, fast feedback loops, simple architecture, and building so
 
 Experienced in architecting systems from scratch, designing resilient database layers, and leading small developer teams to ship high-performance web applications from design to deployment.
 
-Active and open to backend-focused Software Engineering roles.
+### Active and open to backend-focused Software Engineering roles.
+
 ---
 
-## Focus
+</div>
 
 ```txt
 Backend Engineering
@@ -24,4 +27,3 @@ Type Safety
 Database Design
 Performance
 ```
-</div>
