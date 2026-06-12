@@ -1,6 +1,28 @@
+<div align="center">
 
-👋Hey, I'm Ikram!🧍‍♂️ I'm a full-stack developer who loves ripping off the hood to see exactly how things work behind the scenes. Most of my time is spent building with web dev stuff, and wiring them up to a database. I’ve architected apps from scratch with strict type safety, integrated location based APIs, and built out selection and booking workflows. Beyond solo coding, I've led small developer teams to ship larger platforms like LMS apps, media databases, and dashboards from design to deployment.
+# Ikram Nizamani
 
+<br />
 
-Also looking for a job
 ---
+
+## About
+
+Backend Software Engineer building developer tools, systems, and small products that remove friction from real workflows.
+
+I care about security, fast feedback loops, simple architecture, and building software that feels robust and useful immediately. 
+
+Experienced in architecting systems from scratch, designing resilient database layers, and leading small developer teams to ship high-performance web applications from design to deployment.
+
+Active and open to backend-focused Software Engineering roles.
+---
+
+## Focus
+
+```txt
+Backend Engineering
+Systems Architecture
+Type Safety
+Database Design
+Performance
+```
